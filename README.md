@@ -1,2 +1,2 @@
 # programowanie_interfejsow_webowych_lab
-<todo> wstaw link
+https://piekareklukasz.github.io/programowanie_interfejsow_webowych_lab/
