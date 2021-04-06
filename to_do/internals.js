@@ -97,7 +97,7 @@ function hidesecondary () {
 
 function search () {
 	let term = document.getElementById("search-term").value;
-	let cs = document.getElementById("case-box").value;
+	let cs = document.getElementById("case-box").checked;
 	let primary = document.getElementById("primary-list").getElementsByTagName("p");
 	let secondary = document.getElementById("secondary-list").getElementsByTagName("p");
 	
