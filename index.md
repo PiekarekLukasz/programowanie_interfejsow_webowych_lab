@@ -2,3 +2,5 @@
 * [Basic_CSS (Pingwin)](Rezultat2.html)
 * [Koty](Koty.html)
 * [O mnie](Omnie.html)
+
+* [Lista zadań (lab2)](to_do/to_do.html)
