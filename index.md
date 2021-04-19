@@ -5,4 +5,4 @@
 
 * [Lista zadań (lab2)](to_do/to_do.html)
 
-* [Tinder dla projektów (lab4)](Trzynder (lab4)/Trzynder.html)
+* [Tinder dla projektów (lab4)](Trzynder (lab 4)/Trzynder.html)
